@@ -1,0 +1,24 @@
+digraph {
+	graph [rankdir=LR]
+	0 [label="書生が"]
+	1 [label="動くのか"]
+	0 -> 1
+	1 [label="動くのか"]
+	3 [label="動くのか"]
+	1 -> 3
+	2 [label="自分だけが"]
+	3 [label="動くのか"]
+	2 -> 3
+	3 [label="動くのか"]
+	4 [label="分らないが"]
+	3 -> 4
+	4 [label="分らないが"]
+	7 [label="廻る"]
+	4 -> 7
+	5 [label="無暗に"]
+	7 [label="廻る"]
+	5 -> 7
+	6 [label="眼が"]
+	7 [label="廻る"]
+	6 -> 7
+}
