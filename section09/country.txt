@@ -1,0 +1,2374 @@
+﻿<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<title>【みんなの知識 ちょっと便利帳】国名コード / Country codes（2文字・3文字・数字）／国番号（国際電話番号）/ Country calling codes - 自動翻訳参考ページ - 絞り込みタイプ</title>
+<!--[if lt IE 9]>
+<script src="/common_js/ie-html5/html5shiv.js"></script>
+<![endif]-->
+<meta name="description" content="ISO 3166-1で規定されている国名コードと国際電気通信連合 (ITU)によって割り当てられている国番号・国際電話番号です。2字国名コード・3字国名コード・数字国名コード・国番号です。絞り込みができます。『みんなの知識 ちょっと便利帳』の一部です。">
+<meta name="keywords" content="ISO 3166-1 alpha-2,ISO 3166-1 alpha-3,ISO 3166-1 numeric,2文字,3文字,国名コード,2文字国名コード,3文字国名コード,数字国名コード,国番号,国際電話番号,絞り込みタイプ,みんなの知識,ちょっと便利帳">
+<meta name="robots" content="INDEX,FOLLOW">
+<meta name="creation date" content="2008.03.28" />
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel='stylesheet' href='/2017css/responsive-style.css' type='text/css' media='all' />
+<link rel='stylesheet' href='/2017css/responsive-page.css' type='text/css' media='all' />
+<link rel='stylesheet' id='responsive-mode-style-css'  href='/2017css/responsive.css' type='text/css' media='all' />
+<link rel='stylesheet' href='/2017css/print.css' type='text/css' media='print' />
+<!-- 必須：WebFont-Awesome -->
+<link href="/2017css/font-awesome.css" rel="stylesheet" />
+<!-- 数字の電話番号自動リンク機能制御-iOS_Safari向け -->
+<meta name="format-detection" content="telephone=no">
+<!-- ページ内検索 css -->
+<link rel="stylesheet" type="text/css" href="/Scripts/InnerSearch/SearchResult.css" />
+<!-- CSS3Tooltip CSS -->
+<link type="text/css" href="/common_scripts/tooltip-css3/css3tooltip.css" rel="stylesheet">
+<!-- 必須：jQuery -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<!-- 必須：FlashRun -->
+<script src="/Scripts/AC_RunActiveContent.js"></script>
+<!-- FooTable Bootstrap CSS - 絞り込み検索関連 -->
+<link href="/common_scripts/table_search/footable.bootstrap.min.css" rel="stylesheet">
+<link href="/common_scripts/table_search/bootstrap.css" rel="stylesheet">
+<style>
+@font-face{font-family:'Glyphicons Halflings';src:url(http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/fonts/glyphicons-halflings-regular.eot);src:url(http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/fonts/glyphicons-halflings-regular.eot?#iefix) format('embedded-opentype'),url(http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/fonts/glyphicons-halflings-regular.woff2) format('woff2'),url(http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/fonts/glyphicons-halflings-regular.woff) format('woff'),url(http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/fonts/glyphicons-halflings-regular.ttf) format('truetype'),url(http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular) format('svg')}
+</style>
+<!-- テーブル行オンマウス着色 JS -->
+<script src="/common_js/Hitable.js"></script>
+<!-- ページ内検索 js -->
+<script type="text/javascript" src="/Scripts/InnerSearch/InnerSearch.js"></script>
+<body>
+<!-- Amazon詳細ポップアップ -->
+<script type="text/javascript" src="https://wms-fe.amazon-adsystem.com/20070822/JP/js/link-enhancer-common.js?tag=webbenricho-22">
+</script>
+<noscript>
+<img src="https://wms-fe.amazon-adsystem.com/20070822/JP/img/noscript.gif?tag=webbenricho-22" alt="" />
+</noscript>
+<!-- User Local -->
+<script type="text/javascript" src="/AD_Tag/UserLocal/userlocal.js"></script>
+<div id="container"> 
+<!-- header-->
+<header itemscope itemtype="http://schema.org/WPHeader">
+<div id="header" class="clearfix">
+<div id="header-in">
+<div id="site-title"><a href="https://www.benricho.org/"><img src="/benri_img/title-1070_110.jpg" alt="みんなの知識 ちょっと便利帳" title="みんなの知識 ちょっと便利帳"></a></div>
+<div class="subtitle_box">
+<h1 class="sub_h1">国名コード / Country codes<br>国番号（国際電話番号）/ Country calling codes</h1>
+</div>
+</div>
+</div>
+</header>
+<div id="body">
+<div id="body-in">
+<main itemscope itemprop="mainContentOfPage">
+<div id="main" itemscope itemtype="http://schema.org/Blog">
+<div class="post">
+<article class="article">
+<!-- 上部 Ad -->
+<div class="no_print mt10">
+<div class="mt10 mb10 ml15">
+<script type="text/javascript" src="/2017js/ad_upper01.js"></script>
+</div>
+<div align="center">
+<script type="text/javascript" src="/2017js/ad_upper02.js"></script>
+<div class="mt20 mb20">
+<script type="text/javascript" src="/2017js/ad_upper03_linkunit.js"></script>
+</div>
+<!-- CriteoABP-728X90HEADER_ABP -->
+<script type='text/javascript' src='//static.criteo.net/js/ld/publishertag.js'></script>
+<div id='crt-1408243'  style="width:728px;height:90px;"></div>
+<script type='text/javascript'>
+   Criteo.DisplayAcceptableAdIfAdblocked(
+       {'zoneid' : 1408243,
+        'containerid' : 'crt-1408243'
+    });
+</script>
+</div>
+</div>
+<div class="clear"></div>
+<!----- ページ内リスト ----->
+<div class="no_print" align="center" style="padding:0 5px 20px 5px; text-align:center">
+<a href="/translate/index.html"><div class="squarebutton_alizarin" style="float:left; margin:10px 0 0 10px" onmouseover="style.background='#263238'" onmouseout="style.background='#e74c3c'">&nbsp;多言語翻訳&nbsp;<i class="fa fa-chevron-circle-right fa-1x" aria-hidden="true"></i>&nbsp;</div></a>
+<!-- #e74c3c -->
+<a href="/translate/languagecode.html"><div class="squarebutton_lightblue" style="float:left; margin:10px 0 0 10px" onmouseover="style.background='#263238'" onmouseout="style.background='#3498db'">&nbsp;2文字言語コード&nbsp;<i class="fa fa-chevron-circle-right fa-1x" aria-hidden="true"></i>&nbsp;</div></a>
+<!-- #3498db -->
+<a href="/translate/countrycode.html"><div class="squarebutton_green" style="float:left; margin:10px 0 0 10px" onmouseover="style.background='#263238'" onmouseout="style.background='#27ae60'">&nbsp;国名コード(2文字・3文字・数字)・国番号&nbsp;<i class="fa fa-chevron-circle-down fa-1x" aria-hidden="true"></i>&nbsp;</div></a>
+<!-- #27ae60 -->
+<a href="/translate/domain-ccTLD.html"><div class="squarebutton_lightpurplu" style="float:left; margin:10px 0 0 10px" onmouseover="style.background='#263238'" onmouseout="style.background='#9b59b6'">&nbsp;国別ドメイン(ccTLD)&nbsp;<i class="fa fa-chevron-circle-right fa-1x" aria-hidden="true"></i>&nbsp;</div></a>
+<!-- #9b59b6 -->
+</div>
+<!----- ページ内サブタイトル ----->
+<div class="clear"></div>
+<div style="margin:25px 0 15px 0;border:#27ae60 solid 1px; border-radius:4px;background-color:#FFFBD4;">
+<table width="99%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="center" class="textbgcolor02" height="230px">   
+    <h2 style="margin-top:15px">国名コード / Country codes</h2>
+    <div style="margin:5px 0 5px 0; font-size:14px; font-weight:bold">ISO 3166-1 で規定されている、<br />
+アルファベット2文字(alpha-2)、アルファベット3文字(alpha-3)、数字(numeric)での国名コード</div>
+            <hr style="width:90%">
+    <h2>国番号（国際電話番号）/ Country calling codes</h2>
+    <div style="margin:5px 0 5px 0; font-size:14px; font-weight:bold">国際電気通信連合 (ITU)によって割り当てられている&nbsp;国際電話番号（国番号）</div>
+    <h2><div class="textbgcolor03" style="margin:12px 35px 15px 35px; font-size:17px">[ 絞り込み機能版 ]</div></h2>  
+    </td>
+  </tr>
+</table>
+</div>
+<div class="clear"></div>
+<div class="moji15 waku" style="line-height:180%; padding:0 10px 0 0; border-color:#27ae60">
+<ul><li>「2文字・3文字・数字」は、ISO 3166-1 で規定されている国名コードです。</li>
+<li>英名は「ISO 3166-1」の表記に準拠しています。 [リンク] <a href="https://www.iso.org/obp/ui/#search/code/" target="_blank">ISO 3166-1での英名&nbsp;<i class="fa fa-external-link" aria-hidden="true" style="color:chocolate"></i></a></li>
+<li>「国番号」は、国際電話で使われる番号で、国際電気通信連合 (ITU)によって割り当てられています。</li>
+<li>2012年8月現在 (国名コードは、変更される場合があります)</li></ul>
+</div>
+<div class="waku no_print" style="padding:0 10px 10px 0; border-color:#27ae60; margin-top:15px; background-color:#F6F6F6">
+<ul><li>「<strong>絞り込み</strong>」の機能を使って、項目ごとの絞り込みを行うことができます。</li>
+<li>右側の「&nbsp;<i class="fa fa-caret-down" aria-hidden="true"></i>&nbsp;」をクリックすると項目の一覧が表示されます。絞り込む項目をチェックしてください。</li>
+<li>キーワードを入力すると自動的に検索しますが、動かない場合は青いボタン「<span style="color:#337ab7"><i class="fa fa-minus-square fa-lg" aria-hidden="true"></i></span>」をクリックしてください。検索後に青いボタン「<span style="color:#337ab7"><i class="fa fa-minus-square fa-lg" aria-hidden="true"></i></span>」をクリックすると「リセット」します。</li>
+<li>「絞り込み」の枠を空にしてリセットすることもできます。</li>
+<li>アルファベットの大文字・小文字は区別しません。英数字は半角で入力してください。</li>
+<li>「<strong>ページ内文字検索</strong>」は、絞り込みをせずに文字を検索します。大文字・小文字を区別します。</li></ul>
+<a href="/translate/countrycode_sort.html"><span class="squarebutton_darkgrey" style="float:left; margin:0 0 0 15px" onmouseover="style.background='#263238'" onmouseout="style.background='#7f8c8d'">&nbsp;並べ替え機能のページが別にあります&nbsp;<i class="fa fa-chevron-circle-right fa-1x" aria-hidden="true"></i>&nbsp;</span></a>
+<div class="clear"></div>
+<div align="right" style="float:right;margin:-5px 0 -15px 0; padding:0px"><input type="button" name="Submit" value="初期設定に戻す" onClick="location.reload(true);" title="初期設定に戻す" alt="初期設定に戻す" class="moji14" /></div>
+</div>
+<div class="waku" style="margin:10px 0;padding:0 0 13px 0">
+<form onsubmit="return findWord(this)">
+<div class="no_print topser_tips_margin_narrow"><span href="#tooltip" title="・ページ内文字検索は、このページの中の文字を探すものです。ヒットした文字が黄色く強調されます。ヒットした部分への移動はしませんのでスクロールしてお探しください。" class="tooltip">
+<input type="text" class="inputtxt1" title="ページ内の文字検索／黄色く強調" onfocus="if (this.value == 'ページ内の文字検索／黄色く強調') { this.value='' }" onblur="if (this.value == '') { this.value='ページ内の文字検索／黄色く強調'}" value="ページ内の文字検索／黄色く強調" size="28" />
+</span>
+<input name="検索" type="submit" id="検索" title="検索" value="検索" alt="検索" class="moji14">
+<input name="リセット" type="reset" id="入力リセット" title="入力リセット" value="入力リセット"alt="入力リセット" class="moji14">
+<input name="リセット" type="button" value=" 全てリセット " onClick="location.reload(true);" class="moji14"/>
+</div>
+</form>
+</div>
+<div id="inner" class="waku" style="border-color:#27ae60">
+<table id="footable" class="table rowcolor sortable t" data-filtering="true" data-filter-minimum="1">
+  <thead>
+  <tr>
+    <th width="8%" bgcolor="#DDE9FB" style="text-align:center">2文字</th>
+    <th width="8%" bgcolor="#DDE9FB" style="text-align:center">3文字</th>
+    <th width="8%" bgcolor="#DDE9FB" style="text-align:center">数字</th>
+    <th width="35%" bgcolor="#DDE9FB" style="text-align:center">国名・地域名</th>
+    <th width="33%" bgcolor="#DDE9FB" style="text-align:center">英名</th>
+    <th width="8%" bgcolor="#DDE9FB" style="text-align:center">国番号</th>
+  </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><div align="center"><strong>IS</strong></div></td>
+      <td><strong>ISL</strong></td>
+      <td><strong>352</strong></td>
+      <td><img src="img/is.png" width="16" height="11" hspace="4" />アイスランド</td>
+      <td>Iceland</td>
+      <td><div align="center" style="font-weight:bold">354</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>IE</strong></div></td>
+      <td><strong>IRL</strong></td>
+      <td><strong>372</strong></td>
+      <td><img src="img/ie.png" width="16" height="11" hspace="4" />アイルランド</td>
+      <td>Ireland</td>
+      <td><div align="center" style="font-weight:bold">353</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>AZ</strong></div></td>
+      <td><strong>AZE</strong></td>
+      <td><strong>031</strong></td>
+      <td><img src="img/az.png" width="16" height="11" hspace="4" />アゼルバイジャン</td>
+      <td>Azerbaijan</td>
+      <td><div align="center" style="font-weight:bold">994</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>AF</strong></div></td>
+      <td><strong>AFG</strong></td>
+      <td><strong>004</strong></td>
+      <td><img src="img/af.png" width="16" height="11" hspace="4" />アフガニスタン</td>
+      <td>Afghanistan</td>
+      <td><div align="center" style="font-weight:bold">93</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>US</strong></div></td>
+      <td><strong>USA</strong></td>
+      <td><strong>840</strong></td>
+      <td><img src="img/us.png" width="16" height="11" hspace="4" /><div style="display:none">アメリカガッシュウコク</div>アメリカ合衆国</td>
+      <td>United States</td>
+      <td><div align="center" style="font-weight:bold">1</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>AS</strong></div></td>
+      <td><strong>ASM</strong></td>
+      <td><strong>016</strong></td>
+      <td><img src="img/as.png" width="16" height="11" hspace="4" /><div style="display:none">アメリカリョウサモア</div>アメリカ領サモア</td>
+      <td>American Samoa</td>
+      <td><div align="center" style="font-weight:bold">1</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>VI</strong></div></td>
+      <td><strong>VIR</strong></td>
+      <td><strong>850</strong></td>
+      <td><img src="img/vi.png" width="16" height="11" hspace="4" /><div style="display:none">アメリカリョウバージンショトウ</div>アメリカ領バージン諸島</td>
+      <td>Virgin Islands, U.S.</td>
+      <td><div align="center" style="font-weight:bold">1</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>AE</strong></div></td>
+      <td><strong> ARE</strong></td>
+      <td><strong>784</strong></td>
+      <td><img src="img/ae.png" width="16" height="11" hspace="4" /><div style="display:none">アラブシュチョウコクレンポウ</div>アラブ首長国連邦</td>
+      <td>United Arab Emirates</td>
+      <td><div align="center" style="font-weight:bold">971</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>DZ</strong></div></td>
+      <td><strong>DZA</strong></td>
+      <td><strong>012</strong></td>
+      <td><img src="img/dz.png" width="16" height="11" hspace="4" />アルジェリア</td>
+      <td>Algeria</td>
+      <td><div align="center" style="font-weight:bold">213</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>AR</strong></div></td>
+      <td><strong>ARG</strong></td>
+      <td><strong>032</strong></td>
+      <td><img src="img/ar.png" width="16" height="11" hspace="4" />アルゼンチン</td>
+      <td>Argentina</td>
+      <td><div align="center" style="font-weight:bold">54</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>AW</strong></div></td>
+      <td><strong>ABW</strong></td>
+      <td><strong>533</strong></td>
+      <td><img src="img/aw.png" width="16" height="11" hspace="4" />アルバ</td>
+      <td>Aruba</td>
+      <td><div align="center" style="font-weight:bold">297</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>AL</strong></div></td>
+      <td><strong>ALB</strong></td>
+      <td><strong>008</strong></td>
+      <td><img src="img/al.png" width="16" height="11" hspace="4" />アルバニア</td>
+      <td>Albania</td>
+      <td><div align="center" style="font-weight:bold">355</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>AM</strong></div></td>
+      <td><strong>ARM</strong></td>
+      <td><strong>051</strong></td>
+      <td><img src="img/am.png" width="16" height="11" hspace="4" />アルメニア</td>
+      <td>Armenia</td>
+      <td><div align="center" style="font-weight:bold">374</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>AI</strong></div></td>
+      <td><strong>AIA</strong></td>
+      <td><strong>660</strong></td>
+      <td><img src="img/ai.png" width="16" height="11" hspace="4" />アンギラ</td>
+      <td>Anguilla</td>
+      <td><div align="center" style="font-weight:bold">1</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>AO</strong></div></td>
+      <td><strong>AGO</strong></td>
+      <td><strong>024</strong></td>
+      <td><img src="img/ao.png" width="16" height="11" hspace="4" />アンゴラ</td>
+      <td>Angola</td>
+      <td><div align="center" style="font-weight:bold">244</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>AG</strong></div></td>
+      <td><strong>ATG</strong></td>
+      <td><strong>028</strong></td>
+      <td><img src="img/ag.png" width="16" height="11" hspace="4" />アンティグア・バーブーダ</td>
+      <td>Antigua and Barbuda</td>
+      <td><div align="center" style="font-weight:bold">1</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>AD</strong></div></td>
+      <td><strong>AND</strong></td>
+      <td><strong>020</strong></td>
+      <td><img src="img/ad.png" width="16" height="11" hspace="4" />アンドラ</td>
+      <td>Andorra</td>
+      <td><div align="center" style="font-weight:bold">376</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>YE</strong></div></td>
+      <td><strong>YEM</strong></td>
+      <td><strong>887</strong></td>
+      <td><img src="img/ye.png" width="16" height="11" hspace="4" />イエメン</td>
+      <td>Yemen</td>
+      <td><div align="center" style="font-weight:bold">967</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>GB</strong></div></td>
+      <td><strong>GBR</strong></td>
+      <td><strong>826</strong></td>
+      <td><img src="img/gb.png" width="16" height="11" hspace="4" />イギリス</td>
+      <td>United Kingdom</td>
+      <td><div align="center" style="font-weight:bold">44</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>IO</strong></div></td>
+      <td><strong>IOT</strong></td>
+      <td><strong>086</strong></td>
+      <td><img src="img/io.png" width="16" height="11" hspace="4" /><div style="display:none">イギリスリョウインドヨウチイキ</div>イギリス領インド洋地域</td>
+      <td>British Indian Ocean Territory</td>
+      <td><div align="center" style="font-weight:bold">246</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>VG</strong></div></td>
+      <td><strong>VGB</strong></td>
+      <td><strong>092</strong></td>
+      <td><img src="img/vg.png" width="16" height="11" hspace="4" /><div style="display:none">イギリスリョウバージンショトウ</div>イギリス領バージン諸島</td>
+      <td>Virgin Islands, British</td>
+      <td><div align="center" style="font-weight:bold">1</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>IL</strong></div></td>
+      <td><strong>ISR</strong></td>
+      <td><strong>376</strong></td>
+      <td><img src="img/il.png" width="16" height="11" hspace="4" />イスラエル</td>
+      <td>Israel</td>
+      <td><div align="center" style="font-weight:bold">972</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>IT</strong></div></td>
+      <td><strong>ITA</strong></td>
+      <td><strong>380</strong></td>
+      <td><img src="img/it.png" width="16" height="11" hspace="4" />イタリア</td>
+      <td>Italy</td>
+      <td><div align="center" style="font-weight:bold">39</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>IQ</strong></div></td>
+      <td><strong>IRQ</strong></td>
+      <td><strong>368</strong></td>
+      <td><img src="img/iq.png" width="16" height="11" hspace="4" />イラク</td>
+      <td>Iraq</td>
+      <td><div align="center" style="font-weight:bold">964</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>IR</strong></div></td>
+      <td><strong> IRN</strong></td>
+      <td><strong>364</strong></td>
+      <td><img src="img/ir.png" width="16" height="11" hspace="4" /><div style="display:none">イラン・イスラムコク</div>イラン・イスラム共和国</td>
+      <td>Iran, Islamic Republic of</td>
+      <td><div align="center" style="font-weight:bold">98</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>IN</strong></div></td>
+      <td><strong>IND</strong></td>
+      <td><strong>356</strong></td>
+      <td><img src="img/in.png" width="16" height="11" hspace="4" />インド</td>
+      <td>India</td>
+      <td><div align="center" style="font-weight:bold">91</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>ID</strong></div></td>
+      <td><strong>IDN</strong></td>
+      <td><strong>360</strong></td>
+      <td><img src="img/id.png" width="16" height="11" hspace="4" />インドネシア</td>
+      <td>Indonesia</td>
+      <td><div align="center" style="font-weight:bold">62</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>UG</strong></div></td>
+      <td><strong>UGA</strong></td>
+      <td><strong>800</strong></td>
+      <td><img src="img/ug.png" width="16" height="11" hspace="4" />ウガンダ</td>
+      <td>Uganda</td>
+      <td><div align="center" style="font-weight:bold">256</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>UA</strong></div></td>
+      <td><strong>UKR</strong></td>
+      <td><strong>804</strong></td>
+      <td><img src="img/ua.png" width="16" height="11" hspace="4" />ウクライナ</td>
+      <td>Ukraine</td>
+      <td><div align="center" style="font-weight:bold">380</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>UZ</strong></div></td>
+      <td><strong>UZB</strong></td>
+      <td><strong>860</strong></td>
+      <td><img src="img/uz.png" width="16" height="11" hspace="4" />ウズベキスタン</td>
+      <td>Uzbekistan</td>
+      <td><div align="center" style="font-weight:bold">998</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>UY</strong></div></td>
+      <td><strong>URY</strong></td>
+      <td><strong>858</strong></td>
+      <td><img src="img/uy.png" width="16" height="11" hspace="4" />ウルグアイ</td>
+      <td>Uruguay</td>
+      <td><div align="center" style="font-weight:bold">598</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>EC</strong></div></td>
+      <td><strong>ECU</strong></td>
+      <td><strong>218</strong></td>
+      <td><img src="img/ec.png" width="16" height="11" hspace="4" />エクアドル</td>
+      <td>Ecuador</td>
+      <td><div align="center" style="font-weight:bold">593</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>EG</strong></div></td>
+      <td><strong>EGY</strong></td>
+      <td><strong>818</strong></td>
+      <td><img src="img/eg.png" width="16" height="11" hspace="4" />エジプト</td>
+      <td>Egypt</td>
+      <td><div align="center" style="font-weight:bold">20</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>EE</strong></div></td>
+      <td><strong>EST</strong></td>
+      <td><strong>233</strong></td>
+      <td><img src="img/ee.png" width="16" height="11" hspace="4" />エストニア</td>
+      <td>Estonia</td>
+      <td><div align="center" style="font-weight:bold">372</div></td>
+      </tr>
+    <tr>
+<td><div align="center"><strong>SZ</strong></div></td>
+<td><strong>SWZ</strong></td>
+<td><strong>748</strong></td>
+<td><img src="img/sz.png" width="16" height="11" hspace="4" />エスワティニ</td>
+<td>Eswatini</td>
+<td><div align="center" style="font-weight:bold">268</div></td>
+</tr>
+<tr>
+  <td><div align="center"><strong>ET</strong></div></td>
+  <td><strong>ETH</strong></td>
+  <td><strong>231</strong></td>
+  <td><img src="img/et.png" width="16" height="11" hspace="4" />エチオピア</td>
+  <td>Ethiopia</td>
+  <td><div align="center" style="font-weight:bold">251</div></td>
+  </tr>
+    <tr>
+      <td><div align="center"><strong>ER</strong></div></td>
+      <td><strong>ERI</strong></td>
+      <td><strong>232</strong></td>
+      <td><img src="img/er.png" width="16" height="11" hspace="4" />エリトリア</td>
+      <td>Eritrea</td>
+      <td><div align="center" style="font-weight:bold">291</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>SV</strong></div></td>
+      <td><strong>SLV</strong></td>
+      <td><strong>222</strong></td>
+      <td><img src="img/sv.png" width="16" height="11" hspace="4" />エルサルバドル</td>
+      <td>El Salvador</td>
+      <td><div align="center" style="font-weight:bold">503</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>AU</strong></div></td>
+      <td><strong>AUS</strong></td>
+      <td><strong>036</strong></td>
+      <td><img src="img/au.png" width="16" height="11" hspace="4" />オーストラリア</td>
+      <td>Australia</td>
+      <td><div align="center" style="font-weight:bold">61</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>AT</strong></div></td>
+      <td><strong>AUT</strong></td>
+      <td><strong>040</strong></td>
+      <td><img src="img/at.png" width="16" height="11" hspace="4" />オーストリア</td>
+      <td>Austria</td>
+      <td><div align="center" style="font-weight:bold">43</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>AX</strong></div></td>
+      <td><strong>ALA</strong></td>
+      <td><strong>248</strong></td>
+      <td><img src="img/aland.png" width="16" height="11" hspace="4" /><div style="display:none">オーランドショトウ</div>オーランド諸島</td>
+      <td><div style="display:none">Aland Islands</div>
+        Åland Islands</td>
+      <td><div align="center" style="font-weight:bold">358</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>OM</strong></div></td>
+      <td><strong>OMN</strong></td>
+      <td><strong>512</strong></td>
+      <td><img src="img/om.png" width="16" height="11" hspace="4" />オマーン</td>
+      <td>Oman</td>
+      <td><div align="center" style="font-weight:bold">968</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>NL</strong></div></td>
+      <td><strong>NLD</strong></td>
+      <td><strong>528</strong></td>
+      <td><img src="img/nl.png" width="16" height="11" hspace="4" />オランダ</td>
+      <td>Netherlands</td>
+      <td><div align="center" style="font-weight:bold">31</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>GH</strong></div></td>
+      <td><strong>GHA</strong></td>
+      <td><strong>288</strong></td>
+      <td><img src="img/gh.png" width="16" height="11" hspace="4" />ガーナ</td>
+      <td>Ghana</td>
+      <td><div align="center" style="font-weight:bold">233</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>GG</strong></div></td>
+      <td><strong>GGY</strong></td>
+      <td><strong>831</strong></td>
+      <td><img src="img/gg.png" width="16" height="11" hspace="4" /><div style="display:none">ガーンジートウ</div>ガーンジー島</td>
+      <td>Guernsey</td>
+      <td><div align="center" style="font-weight:bold">44</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>GY</strong></div></td>
+      <td><strong>GUY</strong></td>
+      <td><strong>328</strong></td>
+      <td><img src="img/gy.png" width="16" height="11" hspace="4" />ガイアナ</td>
+      <td>Guyana</td>
+      <td><div align="center" style="font-weight:bold">592</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>KZ</strong></div></td>
+      <td><strong>KAZ</strong></td>
+      <td><strong>398</strong></td>
+      <td><img src="img/kz.png" width="16" height="11" hspace="4" />カザフスタン</td>
+      <td>Kazakhstan</td>
+      <td><div align="center" style="font-weight:bold">7</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>QA</strong></div></td>
+      <td><strong>QAT</strong></td>
+      <td><strong>634</strong></td>
+      <td><img src="img/qa.png" width="16" height="11" hspace="4" />カタール</td>
+      <td>Qatar</td>
+      <td><div align="center" style="font-weight:bold">974</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>UM</strong></div></td>
+      <td><strong>UMI</strong></td>
+      <td><strong>581</strong></td>
+      <td><img src="img/us.png" width="16" height="11" hspace="4" /><div style="display:none">ガッシュウコクリョウユウショウリトウ</div>合衆国領有小離島<br />（ミッドウェー島・ジョンストン島・ウェーク諸島など）</td>
+      <td>United States Minor Outlying Islands</td>
+      <td><div align="center" style="font-weight:bold"></div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>CA</strong></div></td>
+      <td><strong>CAN</strong></td>
+      <td><strong>124</strong></td>
+      <td><img src="img/ca.png" width="16" height="11" hspace="4" />カナダ</td>
+      <td>Canada</td>
+      <td><div align="center" style="font-weight:bold">1</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>CV</strong></div></td>
+      <td><strong>CPV</strong></td>
+      <td><strong>132</strong></td>
+      <td><img src="img/cv.png" width="16" height="11" hspace="4" />カボベルデ</td>
+      <td>Cape Verde</td>
+      <td><div align="center" style="font-weight:bold">238</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>GA</strong></div></td>
+      <td><strong>GAB</strong></td>
+      <td><strong>266</strong></td>
+      <td><img src="img/ga.png" width="16" height="11" hspace="4" />ガボン</td>
+      <td>Gabon</td>
+      <td><div align="center" style="font-weight:bold">241</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>CM</strong></div></td>
+      <td><strong>CMR</strong></td>
+      <td><strong>120</strong></td>
+      <td><img src="img/cm.png" width="16" height="11" hspace="4" />カメルーン</td>
+      <td>Cameroon</td>
+      <td><div align="center" style="font-weight:bold">237</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>GM</strong></div></td>
+      <td><strong>GMB</strong></td>
+      <td><strong>270</strong></td>
+      <td><img src="img/gm.png" width="16" height="11" hspace="4" />ガンビア</td>
+      <td>Gambia</td>
+      <td><div align="center" style="font-weight:bold">220</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>KH</strong></div></td>
+      <td><strong>KHM</strong></td>
+      <td><strong>116</strong></td>
+      <td><img src="img/kh.png" width="16" height="11" hspace="4" />カンボジア</td>
+      <td>Cambodia</td>
+      <td><div align="center" style="font-weight:bold">855</div></td>
+      </tr>
+    <tr>
+<td><div align="center"><strong>MK</strong></div></td>
+<td><strong>MKD</strong></td>
+<td><strong>807</strong></td>
+<td><img src="img/mk.png" width="16" height="11" hspace="4" />
+<div style="display:none">キタマケドニアキョウワコク</div>
+北マケドニア共和国</td>
+<td>North Macedonia, Republic of</td>
+<td><div align="center" style="font-weight:bold">389</div></td>
+</tr>
+<tr>
+  <td><div align="center"><strong>MP</strong></div></td>
+  <td><strong>MNP</strong></td>
+  <td><strong>580</strong></td>
+  <td><img src="img/mp.png" width="16" height="11" hspace="4" /><div style="display:none">キタマリアナショトウ</div>北マリアナ諸島</td>
+  <td>Northern Mariana Islands</td>
+  <td><div align="center" style="font-weight:bold">1</div></td>
+  </tr>
+    <tr>
+      <td><div align="center"><strong>GN</strong></div></td>
+      <td><strong>GIN</strong></td>
+      <td><strong>324</strong></td>
+      <td><img src="img/gn.png" width="16" height="11" hspace="4" />ギニア</td>
+      <td>Guinea</td>
+      <td><div align="center" style="font-weight:bold">224</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>GW</strong></div></td>
+      <td><strong>GNB</strong></td>
+      <td><strong>624</strong></td>
+      <td><img src="img/gw.png" width="16" height="11" hspace="4" />ギニアビサウ</td>
+      <td>Guinea-Bissau</td>
+      <td><div align="center" style="font-weight:bold">245</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>CY</strong></div></td>
+      <td><strong>CYP</strong></td>
+      <td><strong>196</strong></td>
+      <td><img src="img/cy.png" width="16" height="11" hspace="4" />キプロス</td>
+      <td>Cyprus</td>
+      <td><div align="center" style="font-weight:bold">357</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>CU</strong></div></td>
+      <td><strong>CUB</strong></td>
+      <td><strong>192</strong></td>
+      <td><img src="img/cu.png" width="16" height="11" hspace="4" />キューバ</td>
+      <td>Cuba</td>
+      <td><div align="center" style="font-weight:bold">53</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>CW</strong></div></td>
+      <td><strong>CUW</strong></td>
+      <td><strong>531</strong></td>
+      <td><img src="img/curacao.png" width="16" height="11" hspace="4" />キュラソー</td>
+      <td>Curaçao</td>
+      <td><div align="center" style="font-weight:bold">599</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>GR</strong></div></td>
+      <td><strong>GRC</strong></td>
+      <td><strong>300</strong></td>
+      <td><img src="img/gr.png" width="16" height="11" hspace="4" />ギリシャ</td>
+      <td>Greece</td>
+      <td><div align="center" style="font-weight:bold">30</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>KI</strong></div></td>
+      <td><strong>KIR</strong></td>
+      <td><strong>296</strong></td>
+      <td><img src="img/ki.png" width="16" height="11" hspace="4" />キリバス</td>
+      <td>Kiribati</td>
+      <td><div align="center" style="font-weight:bold">686</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>KG</strong></div></td>
+      <td><strong>KGZ</strong></td>
+      <td><strong>417</strong></td>
+      <td><img src="img/kg.png" width="16" height="11" hspace="4" />キルギス</td>
+      <td>Kyrgyzstan</td>
+      <td><div align="center" style="font-weight:bold">996</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>GT</strong></div></td>
+      <td><strong>GTM</strong></td>
+      <td><strong>320</strong></td>
+      <td><img src="img/gt.png" width="16" height="11" hspace="4" />グアテマラ</td>
+      <td>Guatemala</td>
+      <td><div align="center" style="font-weight:bold">502</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>GP</strong></div></td>
+      <td><strong>GLP</strong></td>
+      <td><strong>312</strong></td>
+      <td><img src="img/guadeloupe.png" width="16" height="11" hspace="4" /><div style="display:none">グアドループトウ</div>グアドループ島</td>
+      <td>Guadeloupe</td>
+      <td><div align="center" style="font-weight:bold">590</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>GU</strong></div></td>
+      <td><strong>GUM</strong></td>
+      <td><strong>316</strong></td>
+      <td><img src="img/gu.png" width="16" height="11" hspace="4" />グアム</td>
+      <td>Guam</td>
+      <td><div align="center" style="font-weight:bold">1</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>KW</strong></div></td>
+      <td><strong>KWT</strong></td>
+      <td><strong>414</strong></td>
+      <td><img src="img/kw.png" width="16" height="11" hspace="4" />クウェート</td>
+      <td>Kuwait</td>
+      <td><div align="center" style="font-weight:bold">965</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>CK</strong></div></td>
+      <td><strong>COK</strong></td>
+      <td><strong>184</strong></td>
+      <td><img src="img/ck.png" width="16" height="11" hspace="4" /><div style="display:none">クックショトウ</div>クック諸島</td>
+      <td>Cook Islands</td>
+      <td><div align="center" style="font-weight:bold">682</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>GL</strong></div></td>
+      <td><strong>GRL</strong></td>
+      <td><strong>304</strong></td>
+      <td><img src="img/gl.png" width="16" height="11" hspace="4" />グリーンランド</td>
+      <td>Greenland</td>
+      <td><div align="center" style="font-weight:bold">299</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>CX</strong></div></td>
+      <td><strong>CXR</strong></td>
+      <td><strong>162</strong></td>
+      <td><img src="img/cx.png" width="16" height="11" hspace="4" /><div style="display:none">クリスマストウ</div>クリスマス島</td>
+      <td>Christmas Island</td>
+      <td><div align="center" style="font-weight:bold">61</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>GD</strong></div></td>
+      <td><strong>GRD</strong></td>
+      <td><strong>308</strong></td>
+      <td><img src="img/gd.png" width="16" height="11" hspace="4" />グレナダ</td>
+      <td>Grenada</td>
+      <td><div align="center" style="font-weight:bold">1</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>HR</strong></div></td>
+      <td><strong>HRV</strong></td>
+      <td><strong>191</strong></td>
+      <td><img src="img/hr.png" width="16" height="11" hspace="4" />クロアチア</td>
+      <td>Croatia</td>
+      <td><div align="center" style="font-weight:bold">385</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>KY</strong></div></td>
+      <td><strong>CYM</strong></td>
+      <td><strong>136</strong></td>
+      <td><img src="img/ky.png" width="16" height="11" hspace="4" /><div style="display:none">ケイマンショトウ</div>ケイマン諸島</td>
+      <td>Cayman Islands</td>
+      <td><div align="center" style="font-weight:bold">1</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>KE</strong></div></td>
+      <td><strong>KEN</strong></td>
+      <td><strong>404</strong></td>
+      <td><img src="img/ke.png" width="16" height="11" hspace="4" />ケニア</td>
+      <td>Kenya</td>
+      <td><div align="center" style="font-weight:bold">254</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>CI</strong></div></td>
+      <td><strong>CIV</strong></td>
+      <td><strong>384</strong></td>
+      <td><img src="img/ci.png" width="16" height="11" hspace="4" />コートジボワール</td>
+      <td>Côte d'Ivoire</td>
+      <td><div align="center" style="font-weight:bold">225</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>CC</strong></div></td>
+      <td><strong>CCK</strong></td>
+      <td><strong>166</strong></td>
+      <td><img src="img/cc.png" width="16" height="11" hspace="4" /><div style="display:none">ココスキーリングショトウ</div>ココス（キーリング）諸島</td>
+      <td>Cocos (Keeling) Islands</td>
+      <td><div align="center" style="font-weight:bold">61</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>CR</strong></div></td>
+      <td><strong>CRI</strong></td>
+      <td><strong>188</strong></td>
+      <td><img src="img/cr.png" width="16" height="11" hspace="4" />コスタリカ</td>
+      <td>Costa Rica</td>
+      <td><div align="center" style="font-weight:bold">506</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>KM</strong></div></td>
+      <td><strong>COM</strong></td>
+      <td><strong>174</strong></td>
+      <td><img src="img/km.png" width="16" height="11" hspace="4" />コモロ</td>
+      <td>Comoros</td>
+      <td><div align="center" style="font-weight:bold">269</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>CO</strong></div></td>
+      <td><strong>COL</strong></td>
+      <td><strong>170</strong></td>
+      <td><img src="img/co.png" width="16" height="11" hspace="4" />コロンビア</td>
+      <td>Colombia</td>
+      <td><div align="center" style="font-weight:bold">57</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>CG</strong></div></td>
+      <td><strong>COG</strong></td>
+      <td><strong>178</strong></td>
+      <td><img src="img/cg.png" width="16" height="11" hspace="4" /><div style="display:none">コンゴキョウワコク</div>コンゴ共和国</td>
+      <td>Congo</td>
+      <td><div align="center" style="font-weight:bold">242</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>CD</strong></div></td>
+      <td><strong>COD</strong></td>
+      <td><strong>180</strong></td>
+      <td><img src="img/cd.png" width="16" height="11" hspace="4" /><div style="display:none">コンゴミンシュキョウワコク</div>コンゴ民主共和国</td>
+      <td>Congo, the Democratic Republic of the</td>
+      <td><div align="center" style="font-weight:bold">243</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>SA</strong></div></td>
+      <td><strong>SAU</strong></td>
+      <td><strong>682</strong></td>
+      <td><img src="img/sa.png" width="16" height="11" hspace="4" />サウジアラビア</td>
+      <td>Saudi Arabia</td>
+      <td><div align="center" style="font-weight:bold">966</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>GS</strong></div></td>
+      <td><strong>SGS</strong></td>
+      <td><strong>239</strong></td>
+      <td><img src="img/gs.png" width="16" height="11" hspace="4" /><div style="display:none">サウスジョージア・サウスサンドウィッチショトウ</div>サウスジョージア・サウスサンドウィッチ諸島</td>
+      <td>South Georgia and the South Sandwich Islands</td>
+      <td><div align="center" style="font-weight:bold">500</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>WS</strong></div></td>
+      <td><strong>WSM</strong></td>
+      <td><strong>882</strong></td>
+      <td><img src="img/ws.png" width="16" height="11" hspace="4" />サモア</td>
+      <td>Samoa</td>
+      <td><div align="center" style="font-weight:bold">685</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>ST</strong></div></td>
+      <td><strong>STP</strong></td>
+      <td><strong>678</strong></td>
+      <td><img src="img/st.png" width="16" height="11" hspace="4" />サントメ・プリンシペ</td>
+      <td>Sao Tome and Principe</td>
+      <td><div align="center" style="font-weight:bold">239</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>BL</strong></div></td>
+      <td><strong>BLM</strong></td>
+      <td><strong>652</strong></td>
+      <td><img src="img/fr.png" width="16" height="11" hspace="4" /><div style="display:none">サン・バルテルミートウ</div>サン・バルテルミー島</td>
+      <td>Saint Barthélemy</td>
+      <td><div align="center" style="font-weight:bold">590</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>ZM</strong></div></td>
+      <td><strong>ZMB</strong></td>
+      <td><strong>894</strong></td>
+      <td><img src="img/zm.png" width="16" height="11" hspace="4" />ザンビア</td>
+      <td>Zambia</td>
+      <td><div align="center" style="font-weight:bold">260</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>PM</strong></div></td>
+      <td><strong>SPM</strong></td>
+      <td><strong>666</strong></td>
+      <td><img src="img/pm.png" width="16" height="11" hspace="4" /><div style="display:none">サンピエール・ミクロントウ</div>サンピエール・ミクロン島</td>
+      <td>Saint Pierre and Miquelon</td>
+      <td><div align="center" style="font-weight:bold">508</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>SM</strong></div></td>
+      <td><strong>SMR</strong></td>
+      <td><strong>674</strong></td>
+      <td><img src="img/sm.png" width="16" height="11" hspace="4" />サンマリノ</td>
+      <td>San Marino</td>
+      <td><div align="center" style="font-weight:bold">378</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>MF</strong></div></td>
+      <td><strong>MAF</strong></td>
+      <td><strong>663</strong></td>
+      <td><img src="img/fr.png" width="16" height="11" hspace="4" /><div style="display:none">サン・マルタントウ</div>サン・マルタン島</td>
+      <td>Saint Martin (French part)</td>
+      <td><div align="center" style="font-weight:bold">590</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>SL</strong></div></td>
+      <td><strong>SLE</strong></td>
+      <td><strong>694</strong></td>
+      <td><img src="img/sl.png" width="16" height="11" hspace="4" />シエラレオネ</td>
+      <td>Sierra Leone</td>
+      <td><div align="center" style="font-weight:bold">232</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>DJ</strong></div></td>
+      <td><strong>DJI</strong></td>
+      <td><strong>262</strong></td>
+      <td><img src="img/dj.png" width="16" height="11" hspace="4" />ジブチ</td>
+      <td>Djibouti</td>
+      <td><div align="center" style="font-weight:bold">253</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>GI</strong></div></td>
+      <td><strong>GIB</strong></td>
+      <td><strong>292</strong></td>
+      <td><img src="img/gi.png" width="16" height="11" hspace="4" />ジブラルタル</td>
+      <td>Gibraltar</td>
+      <td><div align="center" style="font-weight:bold">350</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>JE</strong></div></td>
+      <td><strong>JEY</strong></td>
+      <td><strong>832</strong></td>
+      <td><img src="img/je.png" width="16" height="11" hspace="4" /><div style="display:none">ジャージートウ</div>ジャージー島</td>
+      <td>Jersey</td>
+      <td><div align="center" style="font-weight:bold">44</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>JM</strong></div></td>
+      <td><strong>JAM</strong></td>
+      <td><strong>388</strong></td>
+      <td><img src="img/jm.png" width="16" height="11" hspace="4" />ジャマイカ</td>
+      <td>Jamaica</td>
+      <td><div align="center" style="font-weight:bold">1</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>GE</strong></div></td>
+      <td><strong>GEO</strong></td>
+      <td><strong>268</strong></td>
+      <td><img src="img/ge.png" width="16" height="11" hspace="4" />ジョージア</td>
+      <td>Georgia</td>
+      <td><div align="center" style="font-weight:bold">995</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>SY</strong></div></td>
+      <td><strong>SYR</strong></td>
+      <td><strong>760</strong></td>
+      <td><img src="img/sy.png" width="16" height="11" hspace="4" /><div style="display:none">シリア・アラブキョウワコク</div>シリア・アラブ共和国</td>
+      <td>Syrian Arab Republic</td>
+      <td><div align="center" style="font-weight:bold">963</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>SG</strong></div></td>
+      <td><strong>SGP</strong></td>
+      <td><strong>702</strong></td>
+      <td><img src="img/sg.png" width="16" height="11" hspace="4" />シンガポール</td>
+      <td>Singapore</td>
+      <td><div align="center" style="font-weight:bold">65</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>SX</strong></div></td>
+      <td><strong>SXM</strong></td>
+      <td><strong>534</strong></td>
+      <td><img src="img/sint_maarten.png" width="16" height="11" hspace="4" />シント・マールテン（オランダ領）</td>
+      <td>Sint Maarten (Dutch part)</td>
+      <td><div align="center" style="font-weight:bold">1-721</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>ZW</strong></div></td>
+      <td><strong>ZWE</strong></td>
+      <td><strong>716</strong></td>
+      <td><img src="img/zw.png" width="16" height="11" hspace="4" />ジンバブエ</td>
+      <td>Zimbabwe</td>
+      <td><div align="center" style="font-weight:bold">263</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>CH</strong></div></td>
+      <td><strong>CHE</strong></td>
+      <td><strong>756</strong></td>
+      <td><img src="img/ch.png" width="16" height="11" hspace="4" />スイス</td>
+      <td>Switzerland</td>
+      <td><div align="center" style="font-weight:bold">41</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>SE</strong></div></td>
+      <td><strong>SWE</strong></td>
+      <td><strong>752</strong></td>
+      <td><img src="img/se.png" width="16" height="11" hspace="4" />スウェーデン</td>
+      <td>Sweden</td>
+      <td><div align="center" style="font-weight:bold">46</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>SD</strong></div></td>
+      <td><strong>SDN</strong></td>
+      <td><strong>729</strong></td>
+      <td><img src="img/sd.png" width="16" height="11" hspace="4" />スーダン</td>
+      <td>Sudan</td>
+      <td><div align="center" style="font-weight:bold">249</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>SJ</strong></div></td>
+      <td><strong>SJM</strong></td>
+      <td><strong>744</strong></td>
+      <td><img src="img/sj.png" width="16" height="11" hspace="4" /><div style="display:none">スバールバルショトウ・ヤンマイエントウ</div>スバールバル諸島・ヤンマイエン島</td>
+      <td>Svalbard and Jan Mayen</td>
+      <td><div align="center" style="font-weight:bold">47</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>ES</strong></div></td>
+      <td><strong>ESP</strong></td>
+      <td><strong>724</strong></td>
+      <td><img src="img/es.png" width="16" height="11" hspace="4" />スペイン</td>
+      <td>Spain</td>
+      <td><div align="center" style="font-weight:bold">34</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>SR</strong></div></td>
+      <td><strong>SUR</strong></td>
+      <td><strong>740</strong></td>
+      <td><img src="img/sr.png" width="16" height="11" hspace="4" />スリナム</td>
+      <td>Suriname</td>
+      <td><div align="center" style="font-weight:bold">597</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>LK</strong></div></td>
+      <td><strong>LKA</strong></td>
+      <td><strong>144</strong></td>
+      <td><img src="img/lk.png" width="16" height="11" hspace="4" />スリランカ</td>
+      <td>Sri Lanka</td>
+      <td><div align="center" style="font-weight:bold">94</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>SK</strong></div></td>
+      <td><strong>SVK</strong></td>
+      <td><strong>703</strong></td>
+      <td><img src="img/sk.png" width="16" height="11" hspace="4" />スロバキア</td>
+      <td>Slovakia</td>
+      <td><div align="center" style="font-weight:bold">421</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>SI</strong></div></td>
+      <td><strong>SVN</strong></td>
+      <td><strong>705</strong></td>
+      <td><img src="img/si.png" width="16" height="11" hspace="4" />スロベニア</td>
+      <td>Slovenia</td>
+      <td><div align="center" style="font-weight:bold">386</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>SC</strong></div></td>
+      <td><strong>SYC</strong></td>
+      <td><strong>690</strong></td>
+      <td><img src="img/sc.png" width="16" height="11" hspace="4" />セーシェル</td>
+      <td>Seychelles</td>
+      <td><div align="center" style="font-weight:bold">248</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>GQ</strong></div></td>
+      <td><strong>GNQ</strong></td>
+      <td><strong>226</strong></td>
+      <td><img src="img/gq.png" width="16" height="11" hspace="4" /><div style="display:none">セキドウギニア</div>赤道ギニア</td>
+      <td>Equatorial Guinea</td>
+      <td><div align="center" style="font-weight:bold">240</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>SN</strong></div></td>
+      <td><strong>SEN</strong></td>
+      <td><strong>686</strong></td>
+      <td><img src="img/sn.png" width="16" height="11" hspace="4" />セネガル</td>
+      <td>Senegal</td>
+      <td><div align="center" style="font-weight:bold">221</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>RS</strong></div></td>
+      <td><strong>SRB</strong></td>
+      <td><strong>688</strong></td>
+      <td><img src="img/rs.png" width="16" height="11" hspace="4" />セルビア</td>
+      <td>Serbia</td>
+      <td><div align="center" style="font-weight:bold">381</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>KN</strong></div></td>
+      <td><strong>KNA</strong></td>
+      <td><strong>659</strong></td>
+      <td><img src="img/kn.png" width="16" height="11" hspace="4" />セントクリストファー・ネビス</td>
+      <td>Saint Kitts and Nevis</td>
+      <td><div align="center" style="font-weight:bold">1</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>VC</strong></div></td>
+      <td><strong>VCT</strong></td>
+      <td><strong>670</strong></td>
+      <td><img src="img/vc.png" width="16" height="11" hspace="4" />セントビンセント・グレナディーン</td>
+      <td>Saint Vincent and the Grenadines</td>
+      <td><div align="center" style="font-weight:bold">1</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>SH</strong></div></td>
+      <td><strong>SHN</strong></td>
+      <td><strong>654</strong></td>
+      <td><img src="img/sh.png" width="16" height="11" hspace="4" />セントヘレナ・アセンションおよびトリスタンダクーニャ</td>
+      <td>Saint Helena, Ascension and Tristan da Cunha</td>
+      <td><div align="center" style="font-weight:bold">290</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>LC</strong></div></td>
+      <td><strong>LCA</strong></td>
+      <td><strong>662</strong></td>
+      <td><img src="img/lc.png" width="16" height="11" hspace="4" />セントルシア</td>
+      <td>Saint Lucia</td>
+      <td><div align="center" style="font-weight:bold">1</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>SO</strong></div></td>
+      <td><strong>SOM</strong></td>
+      <td><strong>706</strong></td>
+      <td><img src="img/so.png" width="16" height="11" hspace="4" />ソマリア</td>
+      <td>Somalia</td>
+      <td><div align="center" style="font-weight:bold">252</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>SB</strong></div></td>
+      <td><strong>SLB</strong></td>
+      <td><strong>090</strong></td>
+      <td><img src="img/sb.png" width="16" height="11" hspace="4" /><div style="display:none">ソロモンショトウ</div>ソロモン諸島</td>
+      <td>Solomon Islands</td>
+      <td><div align="center" style="font-weight:bold">677</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>TC</strong></div></td>
+      <td><strong>TCA</strong></td>
+      <td><strong>796</strong></td>
+      <td><img src="img/tc.png" width="16" height="11" hspace="4" /><div style="display:none">タークスカイコスショトウ</div>タークスカイコス諸島</td>
+      <td>Turks and Caicos Islands</td>
+      <td><div align="center" style="font-weight:bold">1</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>TH</strong></div></td>
+      <td><strong>THA</strong></td>
+      <td><strong>764</strong></td>
+      <td><img src="img/th.png" width="16" height="11" hspace="4" />タイ</td>
+      <td>Thailand</td>
+      <td><div align="center" style="font-weight:bold">66</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>KR</strong></div></td>
+      <td><strong>KOR</strong></td>
+      <td><strong>410</strong></td>
+      <td><img src="img/kr.png" width="16" height="11" hspace="4" /><div style="display:none">ダイカンミンコク・カンコク</div>大韓民国 (韓国)</td>
+      <td>Korea, Republic of</td>
+      <td><div align="center" style="font-weight:bold">82</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>TW</strong></div></td>
+      <td><strong>TWN</strong></td>
+      <td><strong>158</strong></td>
+      <td><img src="img/tw.png" width="16" height="11" hspace="4" /><div style="display:none">タイワン</div>台湾</td>
+      <td>Taiwan, Province of China</td>
+      <td><div align="center" style="font-weight:bold">886</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>TJ</strong></div></td>
+      <td><strong>TJK</strong></td>
+      <td><strong>762</strong></td>
+      <td><img src="img/tj.png" width="16" height="11" hspace="4" />タジキスタン</td>
+      <td>Tajikistan</td>
+      <td><div align="center" style="font-weight:bold">992</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>TZ</strong></div></td>
+      <td><strong>TZA</strong></td>
+      <td><strong>834</strong></td>
+      <td><img src="img/tz.png" width="16" height="11" hspace="4" />タンザニア</td>
+      <td>Tanzania, United Republic of</td>
+      <td><div align="center" style="font-weight:bold">255</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>CZ</strong></div></td>
+      <td><strong>CZE</strong></td>
+      <td><strong>203</strong></td>
+      <td><img src="img/cz.png" width="16" height="11" hspace="4" />チェコ</td>
+      <td>Czech Republic</td>
+      <td><div align="center" style="font-weight:bold">420</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>TD</strong></div></td>
+      <td><strong>TCD</strong></td>
+      <td><strong>148</strong></td>
+      <td><img src="img/td.png" width="16" height="11" hspace="4" />チャド</td>
+      <td>Chad</td>
+      <td><div align="center" style="font-weight:bold">235</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>CF</strong></div></td>
+      <td><strong>CAF</strong></td>
+      <td><strong>140</strong></td>
+      <td><img src="img/cf.png" width="16" height="11" hspace="4" /><div style="display:none">チュウオウアフリカ</div>中央アフリカ</td>
+      <td>Central African Republic</td>
+      <td><div align="center" style="font-weight:bold">236</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>CN</strong></div></td>
+      <td><strong>CHN</strong></td>
+      <td><strong>156</strong></td>
+      <td><img src="img/cn.png" width="16" height="11" hspace="4" /><div style="display:none">チュウカジンミンキョウワコク・チュウゴク</div>中華人民共和国 (中国)</td>
+      <td>China</td>
+      <td><div align="center" style="font-weight:bold">86</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>TN</strong></div></td>
+      <td><strong>TUN</strong></td>
+      <td><strong>788</strong></td>
+      <td><img src="img/tn.png" width="16" height="11" hspace="4" />チュニジア</td>
+      <td>Tunisia</td>
+      <td><div align="center" style="font-weight:bold">216</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>KP</strong></div></td>
+      <td><strong>PRK</strong></td>
+      <td><strong>408</strong></td>
+      <td><img src="img/kp.png" width="16" height="11" hspace="4" /><div style="display:none">チョウセンミンシュシュギジンミンキョウワコク・キタチョウセン</div>朝鮮民主主義人民共和国 (北朝鮮)</td>
+      <td>Korea, Democratic People's Republic of</td>
+      <td><div align="center" style="font-weight:bold">850</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>CL</strong></div></td>
+      <td><strong>CHL</strong></td>
+      <td><strong>152</strong></td>
+      <td><img src="img/cl.png" width="16" height="11" hspace="4" />チリ</td>
+      <td>Chile</td>
+      <td><div align="center" style="font-weight:bold">56</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>TV</strong></div></td>
+      <td><strong>TUV</strong></td>
+      <td><strong>798</strong></td>
+      <td><img src="img/tv.png" width="16" height="11" hspace="4" />ツバル</td>
+      <td>Tuvalu</td>
+      <td><div align="center" style="font-weight:bold">688</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>DK</strong></div></td>
+      <td><strong>DNK</strong></td>
+      <td><strong>208</strong></td>
+      <td><img src="img/dk.png" width="16" height="11" hspace="4" />デンマーク</td>
+      <td>Denmark</td>
+      <td><div align="center" style="font-weight:bold">45</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>DE</strong></div></td>
+      <td><strong>DEU</strong></td>
+      <td><strong>276</strong></td>
+      <td><img src="img/de.png" width="16" height="11" hspace="4" />ドイツ</td>
+      <td>Germany</td>
+      <td><div align="center" style="font-weight:bold">49</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>TG</strong></div></td>
+      <td><strong>TGO</strong></td>
+      <td><strong>768</strong></td>
+      <td><img src="img/tg.png" width="16" height="11" hspace="4" />トーゴ</td>
+      <td>Togo</td>
+      <td><div align="center" style="font-weight:bold">228</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>TK</strong></div></td>
+      <td><strong>TKL</strong></td>
+      <td><strong>772</strong></td>
+      <td><img src="img/tk.png" width="16" height="11" hspace="4" /><div style="display:none">トケラウショトウ</div>トケラウ諸島</td>
+      <td>Tokelau</td>
+      <td><div align="center" style="font-weight:bold">690</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>DO</strong></div></td>
+      <td><strong>DOM</strong></td>
+      <td><strong>214</strong></td>
+      <td><img src="img/do.png" width="16" height="11" hspace="4" /><div style="display:none">ドミニカキョウワコク</div>ドミニカ共和国</td>
+      <td>Dominican Republic</td>
+      <td><div align="center" style="font-weight:bold">1</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>DM</strong></div></td>
+      <td><strong>DMA</strong></td>
+      <td><strong>212</strong></td>
+      <td><img src="img/dm.png" width="16" height="11" hspace="4" />ドミニカ</td>
+      <td>Dominica</td>
+      <td><div align="center" style="font-weight:bold">1</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>TT</strong></div></td>
+      <td><strong>TTO</strong></td>
+      <td><strong>780</strong></td>
+      <td><img src="img/tt.png" width="16" height="11" hspace="4" />トリニダード・トバゴ</td>
+      <td>Trinidad and Tobago</td>
+      <td><div align="center" style="font-weight:bold">1</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>TM</strong></div></td>
+      <td><strong>TKM</strong></td>
+      <td><strong>795</strong></td>
+      <td><img src="img/tm.png" width="16" height="11" hspace="4" />トルクメニスタン</td>
+      <td>Turkmenistan</td>
+      <td><div align="center" style="font-weight:bold">993</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>TR</strong></div></td>
+      <td><strong>TUR</strong></td>
+      <td><strong>792</strong></td>
+      <td><img src="img/tr.png" width="16" height="11" hspace="4" />トルコ</td>
+      <td>Turkey</td>
+      <td><div align="center" style="font-weight:bold">90</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>TO</strong></div></td>
+      <td><strong>TON</strong></td>
+      <td><strong>776</strong></td>
+      <td><img src="img/to.png" width="16" height="11" hspace="4" />トンガ</td>
+      <td>Tonga</td>
+      <td><div align="center" style="font-weight:bold">676</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>NG</strong></div></td>
+      <td><strong>NGA</strong></td>
+      <td><strong>566</strong></td>
+      <td><img src="img/ng.png" width="16" height="11" hspace="4" />ナイジェリア</td>
+      <td>Nigeria</td>
+      <td><div align="center" style="font-weight:bold">234</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>NR</strong></div></td>
+      <td><strong>NRU</strong></td>
+      <td><strong>520</strong></td>
+      <td><img src="img/nr.png" width="16" height="11" hspace="4" />ナウル</td>
+      <td>Nauru</td>
+      <td><div align="center" style="font-weight:bold">674</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>NA</strong></div></td>
+      <td><strong>NAM</strong></td>
+      <td><strong>516</strong></td>
+      <td><img src="img/na.png" width="16" height="11" hspace="4" />ナミビア</td>
+      <td>Namibia</td>
+      <td><div align="center" style="font-weight:bold">264</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>AQ</strong></div></td>
+      <td><strong>ATA</strong></td>
+      <td><strong>010</strong></td>
+      <td><img src="img/antarctica.png" width="16" height="11" hspace="4" /><div style="display:none">ナンキョク</div>南極</td>
+      <td>Antarctica</td>
+      <td><div align="center" style="font-weight:bold">672</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>NU</strong></div></td>
+      <td><strong>NIU</strong></td>
+      <td><strong>570</strong></td>
+      <td><img src="img/nu.png" width="16" height="11" hspace="4" />ニウエ</td>
+      <td>Niue</td>
+      <td><div align="center" style="font-weight:bold">683</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>NI</strong></div></td>
+      <td><strong>NIC</strong></td>
+      <td><strong>558</strong></td>
+      <td><img src="img/ni.png" width="16" height="11" hspace="4" />ニカラグア</td>
+      <td>Nicaragua</td>
+      <td><div align="center" style="font-weight:bold">505</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>NE</strong></div></td>
+      <td><strong>NER</strong></td>
+      <td><strong>562</strong></td>
+      <td><img src="img/ne.png" width="16" height="11" hspace="4" />ニジェール</td>
+      <td>Niger</td>
+      <td><div align="center" style="font-weight:bold">227</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>JP</strong></div></td>
+      <td><strong>JPN</strong></td>
+      <td><strong>392</strong></td>
+      <td><img src="img/jp.png" width="16" height="11" hspace="4" /><div style="display:none">ニホン</div>日本</td>
+      <td>Japan</td>
+      <td><div align="center" style="font-weight:bold">81</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>EH</strong></div></td>
+      <td><strong>ESH</strong></td>
+      <td><strong>732</strong></td>
+      <td><img src="img/eh.png" width="16" height="11" hspace="4" /><div style="display:none">ニシサハラ</div>西サハラ</td>
+      <td>Western Sahara</td>
+      <td><div align="center" style="font-weight:bold">282</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>NC</strong></div></td>
+      <td><strong>NCL</strong></td>
+      <td><strong>540</strong></td>
+      <td><img src="img/nc.png" width="16" height="11" hspace="4" />ニューカレドニア</td>
+      <td>New Caledonia</td>
+      <td><div align="center" style="font-weight:bold">687</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>NZ</strong></div></td>
+      <td><strong>NZL</strong></td>
+      <td><strong>554</strong></td>
+      <td><img src="img/nz.png" width="16" height="11" hspace="4" />ニュージーランド</td>
+      <td>New Zealand</td>
+      <td><div align="center" style="font-weight:bold">64</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>NP</strong></div></td>
+      <td><strong>NPL</strong></td>
+      <td><strong>524</strong></td>
+      <td><img src="img/np.png" width="16" height="11" hspace="4" />ネパール</td>
+      <td>Nepal</td>
+      <td><div align="center" style="font-weight:bold">977</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>NF</strong></div></td>
+      <td><strong>NFK</strong></td>
+      <td><strong>574</strong></td>
+      <td><img src="img/nf.png" width="16" height="11" hspace="4" /><div style="display:none">ノーフォークトウ</div>ノーフォーク島</td>
+      <td>Norfolk Island</td>
+      <td><div align="center" style="font-weight:bold">672</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>NO</strong></div></td>
+      <td><strong>NOR</strong></td>
+      <td><strong>578</strong></td>
+      <td><img src="img/no.png" width="16" height="11" hspace="4" />ノルウェー</td>
+      <td>Norway</td>
+      <td><div align="center" style="font-weight:bold">47</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>HM</strong></div></td>
+      <td><strong>HMD</strong></td>
+      <td><strong>334</strong></td>
+      <td><img src="img/hm.png" width="16" height="11" hspace="4" /><div style="display:none">ハードトウ・マクドナルドショトウ</div>ハード島・マクドナルド諸島</td>
+      <td>Heard Island and McDonald Islands</td>
+      <td><div align="center" style="font-weight:bold"></div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>BH</strong></div></td>
+      <td><strong>BHR</strong></td>
+      <td><strong>048</strong></td>
+      <td><img src="img/bh.png" width="16" height="11" hspace="4" />バーレーン</td>
+      <td>Bahrain</td>
+      <td><div align="center" style="font-weight:bold">973</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>HT</strong></div></td>
+      <td><strong>HTI</strong></td>
+      <td><strong>332</strong></td>
+      <td><img src="img/ht.png" width="16" height="11" hspace="4" />ハイチ</td>
+      <td>Haiti</td>
+      <td><div align="center" style="font-weight:bold">509</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>PK</strong></div></td>
+      <td><strong>PAK</strong></td>
+      <td><strong>586</strong></td>
+      <td><img src="img/pk.png" width="16" height="11" hspace="4" />パキスタン</td>
+      <td>Pakistan</td>
+      <td><div align="center" style="font-weight:bold">92</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>VA</strong></div></td>
+      <td><strong>VAT</strong></td>
+      <td><strong>336</strong></td>
+      <td><img src="img/va.png" width="16" height="11" hspace="4" /><div style="display:none">バチカンシコク</div>バチカン市国</td>
+      <td>Holy See (Vatican City State)</td>
+      <td><div align="center" style="font-weight:bold">39</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>PA</strong></div></td>
+      <td><strong>PAN</strong></td>
+      <td><strong>591</strong></td>
+      <td><img src="img/pa.png" width="16" height="11" hspace="4" />パナマ</td>
+      <td>Panama</td>
+      <td><div align="center" style="font-weight:bold">507</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>VU</strong></div></td>
+      <td><strong>VUT</strong></td>
+      <td><strong>548</strong></td>
+      <td><img src="img/vu.png" width="16" height="11" hspace="4" />バヌアツ</td>
+      <td>Vanuatu</td>
+      <td><div align="center" style="font-weight:bold">678</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>BS</strong></div></td>
+      <td><strong>BHS</strong></td>
+      <td><strong>044</strong></td>
+      <td><img src="img/bs.png" width="16" height="11" hspace="4" />バハマ</td>
+      <td>Bahamas</td>
+      <td><div align="center" style="font-weight:bold">1</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>PG</strong></div></td>
+      <td><strong>PNG</strong></td>
+      <td><strong>598</strong></td>
+      <td><img src="img/pg.png" width="16" height="11" hspace="4" />パプアニューギニア</td>
+      <td>Papua New Guinea</td>
+      <td><div align="center" style="font-weight:bold">675</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>BM</strong></div></td>
+      <td><strong>BMU</strong></td>
+      <td><strong>060</strong></td>
+      <td><img src="img/bm.png" width="16" height="11" hspace="4" /><div style="display:none">バミューダショトウ</div>バミューダ諸島</td>
+      <td>Bermuda</td>
+      <td><div align="center" style="font-weight:bold">1</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>PW</strong></div></td>
+      <td><strong>PLW</strong></td>
+      <td><strong>585</strong></td>
+      <td><img src="img/pw.png" width="16" height="11" hspace="4" />パラオ</td>
+      <td>Palau</td>
+      <td><div align="center" style="font-weight:bold">680</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>PY</strong></div></td>
+      <td><strong>PRY</strong></td>
+      <td><strong>600</strong></td>
+      <td><img src="img/py.png" width="16" height="11" hspace="4" />パラグアイ</td>
+      <td>Paraguay</td>
+      <td><div align="center" style="font-weight:bold">595</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>BB</strong></div></td>
+      <td><strong>BRB</strong></td>
+      <td><strong>052</strong></td>
+      <td><img src="img/bb.png" width="16" height="11" hspace="4" />バルバドス</td>
+      <td>Barbados</td>
+      <td><div align="center" style="font-weight:bold">1</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>PS</strong></div></td>
+      <td><strong>PSE</strong></td>
+      <td><strong>275</strong></td>
+      <td><img src="img/ps.png" width="16" height="11" hspace="4" />パレスチナ</td>
+      <td>Palestinian Territory, Occupied</td>
+      <td><div align="center" style="font-weight:bold"></div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>HU</strong></div></td>
+      <td><strong>HUN</strong></td>
+      <td><strong>348</strong></td>
+      <td><img src="img/hu.png" width="16" height="11" hspace="4" />ハンガリー</td>
+      <td>Hungary</td>
+      <td><div align="center" style="font-weight:bold">36</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>BD</strong></div></td>
+      <td><strong>BGD</strong></td>
+      <td><strong>050</strong></td>
+      <td><img src="img/bd.png" width="16" height="11" hspace="4" />バングラデシュ</td>
+      <td>Bangladesh</td>
+      <td><div align="center" style="font-weight:bold">880</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>TL</strong></div></td>
+      <td><strong>TLS</strong></td>
+      <td><strong>626</strong></td>
+      <td><img src="img/tl.png" width="16" height="11" hspace="4" /><div style="display:none">ヒガシティモール</div>東ティモール</td>
+      <td>Timor-Leste</td>
+      <td><div align="center" style="font-weight:bold">670</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>PN</strong></div></td>
+      <td><strong>PCN</strong></td>
+      <td><strong>612</strong></td>
+      <td><img src="img/pn.png" width="16" height="11" hspace="4" />ピトケアン</td>
+      <td>Pitcairn</td>
+      <td><div align="center" style="font-weight:bold"></div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>FJ</strong></div></td>
+      <td><strong>FJI</strong></td>
+      <td><strong>242</strong></td>
+      <td><img src="img/fj.png" width="16" height="11" hspace="4" />フィジー</td>
+      <td>Fiji</td>
+      <td><div align="center" style="font-weight:bold">679</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>PH</strong></div></td>
+      <td><strong>PHL</strong></td>
+      <td><strong>608</strong></td>
+      <td><img src="img/ph.png" width="16" height="11" hspace="4" />フィリピン</td>
+      <td>Philippines</td>
+      <td><div align="center" style="font-weight:bold">63</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>FI</strong></div></td>
+      <td><strong>FIN</strong></td>
+      <td><strong>246</strong></td>
+      <td><img src="img/fi.png" width="16" height="11" hspace="4" />フィンランド</td>
+      <td>Finland</td>
+      <td><div align="center" style="font-weight:bold">358</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>BT</strong></div></td>
+      <td><strong>BTN</strong></td>
+      <td><strong>064</strong></td>
+      <td><img src="img/bt.png" width="16" height="11" hspace="4" />ブータン</td>
+      <td>Bhutan</td>
+      <td><div align="center" style="font-weight:bold">975</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>BV</strong></div></td>
+      <td><strong>BVT</strong></td>
+      <td><strong>074</strong></td>
+      <td><img src="img/bv.png" width="16" height="11" hspace="4" /><div style="display:none">ブーベトウ</div>ブーベ島</td>
+      <td>Bouvet Island</td>
+      <td><div align="center" style="font-weight:bold"></div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>PR</strong></div></td>
+      <td><strong>PRI</strong></td>
+      <td><strong>630</strong></td>
+      <td><img src="img/pr.png" width="16" height="11" hspace="4" />プエルトリコ</td>
+      <td>Puerto Rico</td>
+      <td><div align="center" style="font-weight:bold">1</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>FO</strong></div></td>
+      <td><strong>FRO</strong></td>
+      <td><strong>234</strong></td>
+      <td><img src="img/fo.png" width="16" height="11" hspace="4" /><div style="display:none">フェローショトウ</div>フェロー諸島</td>
+      <td>Faroe Islands</td>
+      <td><div align="center" style="font-weight:bold">298</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>FK</strong></div></td>
+      <td><strong>FLK</strong></td>
+      <td><strong>238</strong></td>
+      <td><img src="img/fk.png" width="16" height="11" hspace="4" /><div style="display:none">フォークランドショトウ</div>フォークランド（マルビナス）諸島</td>
+      <td>Falkland Islands (Malvinas)</td>
+      <td><div align="center" style="font-weight:bold">500</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>BR</strong></div></td>
+      <td><strong>BRA</strong></td>
+      <td><strong>076</strong></td>
+      <td><img src="img/br.png" width="16" height="11" hspace="4" />ブラジル</td>
+      <td>Brazil</td>
+      <td><div align="center" style="font-weight:bold">55</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>FR</strong></div></td>
+      <td><strong>FRA</strong></td>
+      <td><strong>250</strong></td>
+      <td><img src="img/fr.png" width="16" height="11" hspace="4" />フランス</td>
+      <td>France</td>
+      <td><div align="center" style="font-weight:bold">33</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>GF</strong></div></td>
+      <td><strong>GUF</strong></td>
+      <td><strong>254</strong></td>
+      <td><img src="img/gf.png" width="16" height="11" hspace="4" /><div style="display:none">フランスリョウギアナ</div>フランス領ギアナ</td>
+      <td>French Guiana</td>
+      <td><div align="center" style="font-weight:bold">594</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>PF</strong></div></td>
+      <td><strong>PYF</strong></td>
+      <td><strong>258</strong></td>
+      <td><img src="img/pf.png" width="16" height="11" hspace="4" /><div style="display:none">フランスリョウポリネシア</div>フランス領ポリネシア</td>
+      <td>French Polynesia</td>
+      <td><div align="center" style="font-weight:bold">689</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>TF</strong></div></td>
+      <td><strong>ATF</strong></td>
+      <td><strong>260</strong></td>
+      <td><img src="img/tf.png" width="16" height="11" hspace="4" /><div style="display:none">フランスリョウナンポウ・ナンキョクチイキ</div>フランス領南方・南極地域</td>
+      <td>French Southern Territories</td>
+      <td><div align="center" style="font-weight:bold"></div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>BG</strong></div></td>
+      <td><strong>BGR</strong></td>
+      <td><strong>100</strong></td>
+      <td><img src="img/bg.png" width="16" height="11" hspace="4" />ブルガリア</td>
+      <td>Bulgaria</td>
+      <td><div align="center" style="font-weight:bold">359</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>BF</strong></div></td>
+      <td><strong>BFA</strong></td>
+      <td><strong>854</strong></td>
+      <td><img src="img/bf.png" width="16" height="11" hspace="4" />ブルキナファソ</td>
+      <td>Burkina Faso</td>
+      <td><div align="center" style="font-weight:bold">226</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>BN</strong></div></td>
+      <td><strong>BRN</strong></td>
+      <td><strong>096</strong></td>
+      <td><img src="img/bn.png" width="16" height="11" hspace="4" />ブルネイ・ダルサラーム</td>
+      <td>Brunei Darussalam</td>
+      <td><div align="center" style="font-weight:bold">673</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>BI</strong></div></td>
+      <td><strong>BDI</strong></td>
+      <td><strong>108</strong></td>
+      <td><img src="img/bi.png" width="16" height="11" hspace="4" />ブルンジ</td>
+      <td>Burundi</td>
+      <td><div align="center" style="font-weight:bold">257</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>VN</strong></div></td>
+      <td><strong>VNM</strong></td>
+      <td><strong>704</strong></td>
+      <td><img src="img/vn.png" width="16" height="11" hspace="4" />ベトナム</td>
+      <td>Viet Nam</td>
+      <td><div align="center" style="font-weight:bold">84</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>BJ</strong></div></td>
+      <td><strong>BEN</strong></td>
+      <td><strong>204</strong></td>
+      <td><img src="img/bj.png" width="16" height="11" hspace="4" />ベナン</td>
+      <td>Benin</td>
+      <td><div align="center" style="font-weight:bold">229</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>VE</strong></div></td>
+      <td><strong>VEN</strong></td>
+      <td><strong>862</strong></td>
+      <td><img src="img/ve.png" width="16" height="11" hspace="4" /><div style="display:none">ベネズエラ・ボリバルキョウワコク</div>ベネズエラ・ボリバル共和国</td>
+      <td>Venezuela</td>
+      <td><div align="center" style="font-weight:bold">58</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>BY</strong></div></td>
+      <td><strong>BLR</strong></td>
+      <td><strong>112</strong></td>
+      <td><img src="img/by.png" width="16" height="11" hspace="4" />ベラルーシ</td>
+      <td>Belarus</td>
+      <td><div align="center" style="font-weight:bold">375</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>BZ</strong></div></td>
+      <td><strong>BLZ</strong></td>
+      <td><strong>084</strong></td>
+      <td><img src="img/bz.png" width="16" height="11" hspace="4" />ベリーズ</td>
+      <td>Belize</td>
+      <td><div align="center" style="font-weight:bold">501</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>PE</strong></div></td>
+      <td><strong>PER</strong></td>
+      <td><strong>604</strong></td>
+      <td><img src="img/pe.png" width="16" height="11" hspace="4" />ペルー</td>
+      <td>Peru</td>
+      <td><div align="center" style="font-weight:bold">51</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>BE</strong></div></td>
+      <td><strong>BEL</strong></td>
+      <td><strong>056</strong></td>
+      <td><img src="img/be.png" width="16" height="11" hspace="4" />ベルギー</td>
+      <td>Belgium</td>
+      <td><div align="center" style="font-weight:bold">32</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>PL</strong></div></td>
+      <td><strong>POL</strong></td>
+      <td><strong>616</strong></td>
+      <td><img src="img/pl.png" width="16" height="11" hspace="4" />ポーランド</td>
+      <td>Poland</td>
+      <td><div align="center" style="font-weight:bold">48</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>BA</strong></div></td>
+      <td><strong>BIH</strong></td>
+      <td><strong>070</strong></td>
+      <td><img src="img/ba.png" width="16" height="11" hspace="4" />ボスニア・ヘルツェゴビナ</td>
+      <td>Bosnia and Herzegovina</td>
+      <td><div align="center" style="font-weight:bold">387</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>BW</strong></div></td>
+      <td><strong>BWA</strong></td>
+      <td><strong>072</strong></td>
+      <td><img src="img/bw.png" width="16" height="11" hspace="4" />ボツワナ</td>
+      <td>Botswana</td>
+      <td><div align="center" style="font-weight:bold">267</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>BQ</strong></div></td>
+      <td><strong>BES</strong></td>
+      <td><strong>535</strong></td>
+      <td><img src="img/nl.png" width="16" height="11" hspace="4" />ボネール、シント・ユースタティウスおよびサバ</td>
+      <td>Bonaire, Saint Eustatius and Saba</td>
+      <td><div align="center" style="font-weight:bold">599</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>BO</strong></div></td>
+      <td><strong>BOL</strong></td>
+      <td><strong>068</strong></td>
+      <td><img src="img/bo.png" width="16" height="11" hspace="4" /><div style="display:none">ボリビアタミンゾクコク</div>ボリビア多民族国</td>
+      <td>Bolivia, Plurinational State of</td>
+      <td><div align="center" style="font-weight:bold">591</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>PT</strong></div></td>
+      <td><strong>PRT</strong></td>
+      <td><strong>620</strong></td>
+      <td><img src="img/pt.png" width="16" height="11" hspace="4" />ポルトガル</td>
+      <td>Portugal</td>
+      <td><div align="center" style="font-weight:bold">351</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>HK</strong></div></td>
+      <td><strong>HKG</strong></td>
+      <td><strong>344</strong></td>
+      <td><img src="img/hk.png" width="16" height="11" hspace="4" /><div style="display:none">ホンコン</div>香港</td>
+      <td>Hong Kong</td>
+      <td><div align="center" style="font-weight:bold">852</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>HN</strong></div></td>
+      <td><strong>HND</strong></td>
+      <td><strong>340</strong></td>
+      <td><img src="img/hn.png" width="16" height="11" hspace="4" />ホンジュラス</td>
+      <td>Honduras</td>
+      <td><div align="center" style="font-weight:bold">504</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>MH</strong></div></td>
+      <td><strong>MHL</strong></td>
+      <td><strong>584</strong></td>
+      <td><img src="img/mh.png" width="16" height="11" hspace="4" /><div style="display:none">マーシャルショトウ</div>マーシャル諸島</td>
+      <td>Marshall Islands</td>
+      <td><div align="center" style="font-weight:bold">692</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>MO</strong></div></td>
+      <td><strong>MAC</strong></td>
+      <td><strong>446</strong></td>
+      <td><img src="img/mo.png" width="16" height="11" hspace="4" />マカオ</td>
+      <td>Macao</td>
+      <td><div align="center" style="font-weight:bold">853</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>MG</strong></div></td>
+      <td><strong>MDG</strong></td>
+      <td><strong>450</strong></td>
+      <td><img src="img/mg.png" width="16" height="11" hspace="4" />マダガスカル</td>
+      <td>Madagascar</td>
+      <td><div align="center" style="font-weight:bold">261</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>YT</strong></div></td>
+      <td><strong>MYT</strong></td>
+      <td><strong>175</strong></td>
+      <td><img src="img/yt.png" width="16" height="11" hspace="4" /><div style="display:none">マヨットトウ</div>マヨット島</td>
+      <td>Mayotte</td>
+      <td><div align="center" style="font-weight:bold">262</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>MW</strong></div></td>
+      <td><strong>MWI</strong></td>
+      <td><strong>454</strong></td>
+      <td><img src="img/mw.png" width="16" height="11" hspace="4" />マラウイ</td>
+      <td>Malawi</td>
+      <td><div align="center" style="font-weight:bold">265</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>ML</strong></div></td>
+      <td><strong>MLI</strong></td>
+      <td><strong>466</strong></td>
+      <td><img src="img/ml.png" width="16" height="11" hspace="4" />マリ</td>
+      <td>Mali</td>
+      <td><div align="center" style="font-weight:bold">223</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>MT</strong></div></td>
+      <td><strong>MLT</strong></td>
+      <td><strong>470</strong></td>
+      <td><img src="img/mt.png" width="16" height="11" hspace="4" />マルタ</td>
+      <td>Malta</td>
+      <td><div align="center" style="font-weight:bold">356</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>MQ</strong></div></td>
+      <td><strong>MTQ</strong></td>
+      <td><strong>474</strong></td>
+      <td><img src="img/mq.png" width="16" height="11" hspace="4" />マルティニク</td>
+      <td>Martinique</td>
+      <td><div align="center" style="font-weight:bold">596</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>MY</strong></div></td>
+      <td><strong>MYS</strong></td>
+      <td><strong>458</strong></td>
+      <td><img src="img/my.png" width="16" height="11" hspace="4" />マレーシア</td>
+      <td>Malaysia</td>
+      <td><div align="center" style="font-weight:bold">60</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>IM</strong></div></td>
+      <td><strong>IMN</strong></td>
+      <td><strong>833</strong></td>
+      <td><img src="img/im.png" width="16" height="11" hspace="4" /><div style="display:none">マントウ</div>マン島</td>
+      <td>Isle of Man</td>
+      <td><div align="center" style="font-weight:bold">44</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>FM</strong></div></td>
+      <td><strong>FSM</strong></td>
+      <td><strong>583</strong></td>
+      <td><img src="img/fm.png" width="16" height="11" hspace="4" /><div style="display:none">ミクロネシアレンポウ</div>ミクロネシア連邦</td>
+      <td>Micronesia, Federated States of</td>
+      <td><div align="center" style="font-weight:bold">691</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>ZA</strong></div></td>
+      <td><strong>ZAF</strong></td>
+      <td><strong>710</strong></td>
+      <td><img src="img/za.png" width="16" height="11" hspace="4" /><div style="display:none">ミナミアフリカキョウワコク</div>南アフリカ共和国</td>
+      <td>South Africa</td>
+      <td><div align="center" style="font-weight:bold">27</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>SS</strong></div></td>
+      <td><strong>SSD</strong></td>
+      <td><strong>728</strong></td>
+      <td><img src="img/ss.png" width="16" height="11" hspace="4" /><div style="display:none">ミナミスーダン</div>南スーダン</td>
+      <td>South Sudan</td>
+      <td><div align="center" style="font-weight:bold">211</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>MM</strong></div></td>
+      <td><strong>MMR</strong></td>
+      <td><strong>104</strong></td>
+      <td><img src="img/mm.png" width="16" height="11" hspace="4" />ミャンマー</td>
+      <td>Myanmar</td>
+      <td><div align="center" style="font-weight:bold">95</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>MX</strong></div></td>
+      <td><strong>MEX</strong></td>
+      <td><strong>484</strong></td>
+      <td><img src="img/mx.png" width="16" height="11" hspace="4" />メキシコ</td>
+      <td>Mexico</td>
+      <td><div align="center" style="font-weight:bold">52</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>MU</strong></div></td>
+      <td><strong>MUS</strong></td>
+      <td><strong>480</strong></td>
+      <td><img src="img/mu.png" width="16" height="11" hspace="4" />モーリシャス</td>
+      <td>Mauritius</td>
+      <td><div align="center" style="font-weight:bold">230</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>MR</strong></div></td>
+      <td><strong>MRT</strong></td>
+      <td><strong>478</strong></td>
+      <td><img src="img/mr.png" width="16" height="11" hspace="4" />モーリタニア</td>
+      <td>Mauritania</td>
+      <td><div align="center" style="font-weight:bold">222</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>MZ</strong></div></td>
+      <td><strong>MOZ</strong></td>
+      <td><strong>508</strong></td>
+      <td><img src="img/mz.png" width="16" height="11" hspace="4" />モザンビーク</td>
+      <td>Mozambique</td>
+      <td><div align="center" style="font-weight:bold">258</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>MC</strong></div></td>
+      <td><strong>MCO</strong></td>
+      <td><strong>492</strong></td>
+      <td><img src="img/mc.png" width="16" height="11" hspace="4" />モナコ</td>
+      <td>Monaco</td>
+      <td><div align="center" style="font-weight:bold">377</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>MV</strong></div></td>
+      <td><strong>MDV</strong></td>
+      <td><strong>462</strong></td>
+      <td><img src="img/mv.png" width="16" height="11" hspace="4" />モルディブ</td>
+      <td>Maldives</td>
+      <td><div align="center" style="font-weight:bold">960</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>MD</strong></div></td>
+      <td><strong>MDA</strong></td>
+      <td><strong>498</strong></td>
+      <td><img src="img/md.png" width="16" height="11" hspace="4" /><div style="display:none">モルドバキョウワコク</div>モルドバ共和国</td>
+      <td>Moldova, Republic of</td>
+      <td><div align="center" style="font-weight:bold">373</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>MA</strong></div></td>
+      <td><strong>MAR</strong></td>
+      <td><strong>504</strong></td>
+      <td><img src="img/ma.png" width="16" height="11" hspace="4" />モロッコ</td>
+      <td>Morocco</td>
+      <td><div align="center" style="font-weight:bold">212</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>MN</strong></div></td>
+      <td><strong>MNG</strong></td>
+      <td><strong>496</strong></td>
+      <td><img src="img/mn.png" width="16" height="11" hspace="4" />モンゴル</td>
+      <td>Mongolia</td>
+      <td><div align="center" style="font-weight:bold">976</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>ME</strong></div></td>
+      <td><strong>MNE</strong></td>
+      <td><strong>499</strong></td>
+      <td><img src="img/me.png" width="16" height="11" hspace="4" />モンテネグロ</td>
+      <td>Montenegro</td>
+      <td><div align="center" style="font-weight:bold">382</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>MS</strong></div></td>
+      <td><strong>MSR</strong></td>
+      <td><strong>500</strong></td>
+      <td><img src="img/ms.png" width="16" height="11" hspace="4" />モントセラト</td>
+      <td>Montserrat</td>
+      <td><div align="center" style="font-weight:bold">1</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>JO</strong></div></td>
+      <td><strong>JOR</strong></td>
+      <td><strong>400</strong></td>
+      <td><img src="img/jo.png" width="16" height="11" hspace="4" />ヨルダン</td>
+      <td>Jordan</td>
+      <td><div align="center" style="font-weight:bold">962</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>LA</strong></div></td>
+      <td><strong>LAO</strong></td>
+      <td><strong>418</strong></td>
+      <td><img src="img/la.png" width="16" height="11" hspace="4" /><div style="display:none">ラオスジンミンミンシュキョウワコク</div>ラオス人民民主共和国</td>
+      <td>Lao People's Democratic Republic</td>
+      <td><div align="center" style="font-weight:bold">856</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>LV</strong></div></td>
+      <td><strong>LVA</strong></td>
+      <td><strong>428</strong></td>
+      <td><img src="img/lv.png" width="16" height="11" hspace="4" />ラトビア</td>
+      <td>Latvia</td>
+      <td><div align="center" style="font-weight:bold">371</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>LT</strong></div></td>
+      <td><strong>LTU</strong></td>
+      <td><strong>440</strong></td>
+      <td><img src="img/lt.png" width="16" height="11" hspace="4" />リトアニア</td>
+      <td>Lithuania</td>
+      <td><div align="center" style="font-weight:bold">370</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>LY</strong></div></td>
+      <td><strong>LBY</strong></td>
+      <td><strong>434</strong></td>
+      <td><img src="img/ly.png" width="16" height="11" hspace="4" />リビア</td>
+      <td>Libyan Arab Jamahiriya</td>
+      <td><div align="center" style="font-weight:bold">218</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>LI</strong></div></td>
+      <td><strong>LIE</strong></td>
+      <td><strong>438</strong></td>
+      <td><img src="img/li.png" width="16" height="11" hspace="4" />リヒテンシュタイン</td>
+      <td>Liechtenstein</td>
+      <td><div align="center" style="font-weight:bold">423</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>LR</strong></div></td>
+      <td><strong>LBR</strong></td>
+      <td><strong>430</strong></td>
+      <td><img src="img/lr.png" width="16" height="11" hspace="4" />リベリア</td>
+      <td>Liberia</td>
+      <td><div align="center" style="font-weight:bold">231</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>RO</strong></div></td>
+      <td><strong>ROU</strong></td>
+      <td><strong>642</strong></td>
+      <td><img src="img/ro.png" width="16" height="11" hspace="4" />ルーマニア</td>
+      <td>Romania</td>
+      <td><div align="center" style="font-weight:bold">40</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>LU</strong></div></td>
+      <td><strong>LUX</strong></td>
+      <td><strong>442</strong></td>
+      <td><img src="img/lu.png" width="16" height="11" hspace="4" />ルクセンブルク</td>
+      <td>Luxembourg</td>
+      <td><div align="center" style="font-weight:bold">352</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>RW</strong></div></td>
+      <td><strong>RWA</strong></td>
+      <td><strong>646</strong></td>
+      <td><img src="img/rw.png" width="16" height="11" hspace="4" />ルワンダ</td>
+      <td>Rwanda</td>
+      <td><div align="center" style="font-weight:bold">250</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>LS</strong></div></td>
+      <td><strong>LSO</strong></td>
+      <td><strong>426</strong></td>
+      <td><img src="img/ls.png" width="16" height="11" hspace="4" />レソト</td>
+      <td>Lesotho</td>
+      <td><div align="center" style="font-weight:bold">266</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>LB</strong></div></td>
+      <td><strong>LBN</strong></td>
+      <td><strong>422</strong></td>
+      <td><img src="img/lb.png" width="16" height="11" hspace="4" />レバノン</td>
+      <td>Lebanon</td>
+      <td><div align="center" style="font-weight:bold">961</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>RE</strong></div></td>
+      <td><strong>REU</strong></td>
+      <td><strong>638</strong></td>
+      <td><img src="img/re.png" width="16" height="11" hspace="4" />レユニオン</td>
+      <td>Réunion</td>
+      <td><div align="center" style="font-weight:bold">262</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>RU</strong></div></td>
+      <td><strong>RUS</strong></td>
+      <td><strong>643</strong></td>
+      <td><img src="img/ru.png" width="16" height="11" hspace="4" />ロシア</td>
+      <td>Russian Federation</td>
+      <td><div align="center" style="font-weight:bold">7</div></td>
+      </tr>
+    <tr>
+      <td><div align="center"><strong>WF</strong></div></td>
+      <td><strong>WLF</strong></td>
+      <td><strong>876</strong></td>
+      <td><img src="img/wf.png" width="16" height="11" hspace="4" />ワリスフュチュナ</td>
+      <td>Wallis and Futuna</td>
+      <td><div align="center" style="font-weight:bold">681</div></td>
+      </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>アセンション島</td>
+      <td>Ascension Island</td>
+      <td><div align="center" style="font-weight:bold">247</div></td>
+      </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>アゾレス諸島</td>
+      <td>Azores</td>
+      <td><div align="center" style="font-weight:bold">351</div></td>
+      </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>オランダ領アンティル</td>
+      <td>Netherlands Antilles</td>
+      <td><div align="center" style="font-weight:bold">599</div></td>
+      </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>カナリア諸島</td>
+      <td>Canary Islands</td>
+      <td><div align="center" style="font-weight:bold">34</div></td>
+      </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>サイパン(北マリアナ諸島)</td>
+      <td>Saipan</td>
+      <td><div align="center" style="font-weight:bold">1</div></td>
+      </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>スペイン領北アフリカ</td>
+      <td>Spanish North Africa</td>
+      <td><div align="center" style="font-weight:bold">34</div></td>
+      </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>ディエゴガルシア島</td>
+      <td>Diego Garcia</td>
+      <td><div align="center" style="font-weight:bold">246</div></td>
+      </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>ハワイ(アメリカ合衆国)</td>
+      <td>State of Hawaii</td>
+      <td><div align="center" style="font-weight:bold">1</div></td>
+      </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>マデイラ諸島</td>
+      <td>Madeira</td>
+      <td><div align="center" style="font-weight:bold">351</div></td>
+      </tr>
+  </tbody>
+</table>
+</div>
+<div class="moji15 waku" style="line-height:180%; padding:10px; margin-top:15px">
+・「国際電話番号（国番号）」は、国際電気通信連合 (ITU)によって割り当てられた番号と実際に使われている番号が違う場合があります。参考としてごらんください。
+</div>
+<!-- Add in FooTable  - 絞り込み検索関連 -->
+<script src="/common_scripts/table_search/footable_search.js"></script>
+<script>
+	jQuery(function($){
+		$('#footable').footable();
+	});
+</script>
+<!-- 記事下Ad -->
+<div class="ad-article-bottom ad-space no_print">
+<!-- Ad (1) -->
+<div class="ad-left ad-pc adsense-336">
+<script type="text/javascript" src="/2017js/ad_under_01.js"></script> 
+</div>
+<!-- Ad (2) -->
+<div class="ad-right ad-pc adsense-336">
+<script type="text/javascript" src="/2017js/ad_under_02.js"></script> 
+</div>
+</div>
+<br clear="all">
+<div class="ad-article-bottom ad-space no_print">
+<!-- Google関連コンテンツ -->
+<div class="no_print mt15 cb">
+<h2 class="toph2_06"><span class="subtitle6c"><i class="fa fa-book fa-1x" aria-hidden="true"></i> おすすめサイト・関連サイト…</span></h2>
+<script type="text/javascript" src="/2017js/ad_kanren_osusume.js"></script>
+</div>
+<!-- Ad (3) -->
+<div class="ad-left ad-pc adsense-336">
+<script type="text/javascript" src="/2017js/ad_under_03.js"></script>
+</div>
+<!-- Ad (4) -->
+<div class="ad-right ad-pc adsense-336">
+<script type="text/javascript" src="/2017js/ad_under_04.js"></script>
+</div>
+</div>
+<!-- CriteoABP-750X280_ABP -->
+<div align="center" class="no_print">
+<script type='text/javascript' src='//static.criteo.net/js/ld/publishertag.js'></script>
+<div id='crt-1408242' style="width:750px;height:280px;"></div>
+<script type='text/javascript'>
+   Criteo.DisplayAcceptableAdIfAdblocked(
+       {'zoneid' : 1408242,
+        'containerid' : 'crt-1408242'
+    });
+</script>
+</div>
+<!-- /記事下Ad -->
+</article><!-- .article -->
+</div><!-- .post --> 
+</div><!-- /#main --> 
+</main>
+<!-- sidebar -->
+<div id="sidebar" role="complementary" class="no_print">
+<div id="sidebar-widget">
+<aside id="search-2" class="widget widget_search">
+<!-- サイドバー | GoogleSearch -->
+<script type="text/javascript" src="/2017js/sidebar01-GoogleSearch.js"></script>
+<!-- サイドバー | 時計・カレンダー -->
+<div id="sidebar-Clock-Calender">
+<script type="text/javascript" src="/2017js/sidebar02-Clock-Calender.js"></script>
+</div>
+<!-- CriteoABP-300_600GOOGLE_ABP -->
+<div class="no_print" style="margin-left:-2.5px">
+<script type='text/javascript' src='//static.criteo.net/js/ld/publishertag.js'></script>
+<div id='crt-1408241'  style="width:300px;height:600px;"></div>
+<script type='text/javascript'>
+   Criteo.DisplayAcceptableAdIfAdblocked(
+       {'zoneid' : 1408241,
+        'containerid' : 'crt-1408241'
+    });
+</script>
+</div>
+<!-- サイドバー | Twitter・Facebook・はてなブックマーク・Google +1 -->
+<script type="text/javascript" src="/2017js/sidebar03-twitter-facebook.js"></script>
+<!-- サイドバー | お知らせ -->
+<script type="text/javascript" src="/2017js/information_sidebar.js"></script>
+<hr>
+<div class="side_link"><a href="/">&nbsp;<i class="fa fa-chevron-circle-right fa-1x" aria-hidden="true"></i>&nbsp;トップページ・<i class="fa fa-home" aria-hidden="true"></i>&nbsp;Home </a></div>
+<hr>
+<!-- サイドバー項目リンク -->
+<div class="sidetxt1">&nbsp;<a href="/translate/index.html"><i class="fa fa-angle-double-right fa-1x" aria-hidden="true"></i>&nbsp;多言語翻訳</a></div>
+<div class="sidetxt1">&nbsp;<a href="/translate/languagecode.html"><i class="fa fa-angle-double-right fa-1x" aria-hidden="true"></i>&nbsp;2文字言語コード</a></div>
+<div class="sidetxt1">&nbsp;<i class="fa fa-angle-double-right fa-1x" aria-hidden="true"></i>&nbsp;国名コード(2文字・3文字・数字)・国番号</div>
+<div class="sidetxt1">&nbsp;<a href="/translate/domain-ccTLD.html"><i class="fa fa-angle-double-right fa-1x" aria-hidden="true"></i>&nbsp;国別ドメイン（ccTLD）</a></div>
+<hr>
+<!-- サイドバー主な項目リンク -->
+<script type="text/javascript" src="/2017js/sidebar-maincontents_link.js"></script>
+<div class="side_adarea1">
+<hr>
+<!-- サイドバーAmazon -->
+<script type="text/javascript" src="/2017js/sidebar-amazon.js"></script>
+<!-- サイドバーGoogleAd -->
+<script type="text/javascript" src="/2017js/sidebar_googlead.js"></script>
+</div>
+</aside>
+</div>
+</div><!-- /#sidebar -->
+</div><!-- /#body-in -->
+<!-- footer_copyright -->
+<script type="text/javascript" src="/2017js/footer.js"></script>
+<div class="clear"></div>
+<!-- LastModified -->
+<div class='lastmodified-new'>
+
+Last updated : 2019/12/21
+</div>
+<!-- Page-toTop -->
+<div id="page-top" class="no_print"><a id="move-page-top"><i class="fa fa-angle-up fa-2x" aria-hidden="true"></i></a></div>
+<!-- Mobile_Ad - Bottom_Ad -->
+<script type="text/javascript" src="/2017js/mobile_ad-bottom_ad.js"></script>
+</div><!-- /#body -->
+</div><!-- /#container -->
+<!-- Copyright印刷用テキスト-->
+<div class="footer-sitetitle-print copyright2">&copy; みんなの知識 ちょっと便利帳 - <script type="text/javascript">document.write(location.href);</script></div>
+<!-- CommonJavaScript-->
+<script src="/2017js/javascript.js" defer></script>
+<!-- Ad-Smartphone-fluct -->
+<script type="text/javascript" src="https://cdn-fluct.sh.adingo.jp/f.js?G=1000042041"></script>
+<!-- fluct_320×50_Web_iOS -->
+<script type="text/javascript">
+//<![CDATA[
+if(typeof(adingoFluct)!="undefined") adingoFluct.showAd('1000064514');
+//]]>
+</script>
+<!-- fluct_320×50_Web_Android -->
+<script type="text/javascript">
+//<![CDATA[
+if(typeof(adingoFluct)!="undefined") adingoFluct.showAd('1000064515');
+//]]>
+</script>
+<!-- End Ad-Smartphone-fluct -->
+<!-- Google-Analytics --> 
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script> 
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-1594968-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</body>
+</html>

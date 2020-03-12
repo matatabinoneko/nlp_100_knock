@@ -3,3 +3,6 @@ stanford-corenlp-full-2018-10-05
 .DS_Store
 artist.json
 dump.rdb
+rt-polaritydata*
+enwiki-20150112-400-r10-105752*
+enwiki-20150112-400-r100-10576*
